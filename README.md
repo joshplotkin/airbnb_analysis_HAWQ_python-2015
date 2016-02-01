@@ -1,5 +1,7 @@
 ## An analysis of 35k airbnb NYC listings using python connecting to HAWQ+MADlib.
 
+### To simply view, go to the notebook_md file and open the md file.
+
 ### This is a demo using python with HAWQ to easily generate and execute queries in parallel.
 * python for fast generation of SQL queries
 * jupyter notebook and pandas for a better interface for returning results
