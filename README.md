@@ -8,6 +8,7 @@
 * HAWQ for a fast MPP engine on top of HDFS
 * PL/Python for creating custom functions that the HAWQ engine executes in parallel
 * MADlib for in-database machine learning and statistics, in parallel
+* I also wrote some python scripts to scrape airbnb and generate the dataset
 
 ### The easiest way to use this is by installing anaconda. Anaconda is a package manager for python, found here: https://www.continuum.io/downloads
 * if a package isn't found, you can run `conda install <package name>` to install it
@@ -16,4 +17,3 @@
 
 #### TODO:
 * several TODOs at bottom of the notebook
-* add code for scraping airbnb
